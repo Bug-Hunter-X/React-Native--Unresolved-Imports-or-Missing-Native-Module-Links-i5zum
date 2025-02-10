@@ -1,0 +1,1 @@
+This error occurs when you try to use a component or function from a library that hasn't been properly imported or linked.  It's especially common with native modules.  For example, if you're using a third-party library that provides native functionality (like a camera component), this error often means the native code hasn't been correctly linked to your React Native project.
